@@ -14,7 +14,10 @@ IRCS is a comprehensive Flutter application designed for real-time analytics and
 + User Profiles: Access and manage user profiles, including username, device ID, and support resources.
 
 # Screenshots
-![Login page](assets/Login%screen.png)
+<img src="assets/Login_screen.png" alt="Login screen" width="200" height="350">
+<img src="assets/Signup_screen.png" alt="Signup screen" width="200" height="350">
+<img src="assets/Reset_password_screen.png" alt="Reset password screen" width="200" height="350">
+<img src="assets/Home_screen.png" alt="Home screen" width="200" height="350">
 
 # License
 This project is licensed under the MIT License.
