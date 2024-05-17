@@ -1,6 +1,6 @@
 # Intelligent Resources Consumption System (IRCS)
 
-This is repository that showcases the Intelligent Resources Consumption System [IRCS] app with all its UI and features. 
+This is a repository that showcases the Intelligent Resources Consumption System [IRCS] app with all its UI and features. 
 
 # Introduction
 IRCS is a comprehensive Flutter application designed for real-time analytics and monitoring of household resources, including electricity, water consumption, and tracking of solar energy production. With intuitive interfaces and powerful predictive analytics, IRCS empowers users to make informed decisions about their resource usage, leading to more efficient and sustainable practices.
@@ -14,7 +14,7 @@ IRCS is a comprehensive Flutter application designed for real-time analytics and
 + User Profiles: Access and manage user profiles, including username, device ID, and support resources.
 
 # Screenshots
-
+![Login page](assets/Login%screen.png)
 
 # License
 This project is licensed under the MIT License.
