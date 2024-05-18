@@ -15,23 +15,23 @@ IRCS is a comprehensive Flutter application designed for real-time analytics and
 
 # Screenshots
 <p align="center">
-  <img src="assets/Login_screen.png" alt="Login screen" width="200" style="margin-right: 10px;">
-  <img src="assets/Signup_screen.png" alt="Signup screen" width="200" style="margin-right: 10px;">
+  <img src="assets/Login_screen.png" alt="Login screen" width="200" style="margin-right: 15px;">
+  <img src="assets/Signup_screen.png" alt="Signup screen" width="200" style="margin-right: 15px;">
   <img src="assets/Reset_password_screen.png" alt="Reset password screen" width="200">
 </p>
 
 
 <p align="center">
-  <img src="assets/Home_screen.png" alt="Home screen" width="200" style="margin-right: 10px;">
-  <img src="assets/Devices_screen.png" alt="Devices screen" width="200" style="margin-right: 10px;">
-  <img src="assets/Alerts_screen.png" alt="Alerts screen" width="200" style="margin-right: 10px;">
+  <img src="assets/Home_screen.png" alt="Home screen" width="200" style="margin-right: 15px;">
+  <img src="assets/Devices_screen.png" alt="Devices screen" width="200" style="margin-right: 15px;">
+  <img src="assets/Alerts_screen.png" alt="Alerts screen" width="200" style="margin-right: 15px;">
   <img src="assets/User_profile_screen.png" alt="Profile screen" width="200">
 </p>
 
 
 <p align="center">
-  <img src="assets/Electricity_screen.png" alt="Electricity screen" width="200" style="margin-right: 10px;">
-  <img src="assets/Water_screen.png" alt="Water screen" width="200" style="margin-right: 10px;">
+  <img src="assets/Electricity_screen.png" alt="Electricity screen" width="200" style="margin-right: 15px;">
+  <img src="assets/Water_screen.png" alt="Water screen" width="200" style="margin-right: 15px;">
   <img src="assets/Solar_screen.png" alt="Solar screen" width="200">
 </p>
 
