@@ -14,36 +14,16 @@ IRCS is a comprehensive Flutter application designed for real-time analytics and
 + User Profiles: Access and manage user profiles, including username, device ID, and support resources.
 
 # Screenshots
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-    <img src="iassets/Login_screen.png" alt="loginscreen" style="width: 100%;">
-    <img src="assets/Signup_screen.png" alt="signupscreen" style="width: 100%;">
-    <img src="assets/Reset_password_screen.png" alt="resetpasswordscreen" style="width: 100%;">
-    <img src="assets/Home_screen.png" alt="homescreen.png" style="width: 100%;">
-    <!-- Repeat the above pattern for as many images as you have -->
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="flex-basis: 23%; margin-bottom: 10px;">
-        <img src="iassets/Login_screen.png" alt="loginscreen" style="width: 100%;">
-    </div>
-    <div style="flex-basis: 23%; margin-bottom: 10px;">
-        <img src="assets/Signup_screen.png" alt="signupscreen" style="width: 100%;">
-    </div>
-    <div style="flex-basis: 23%; margin-bottom: 10px;">
-        <img src="image3.png" alt="Screenshot 3" style="width: 100%;">
-    </div>
-    <div style="flex-basis: 23%; margin-bottom: 10px;">
-        <img src="image4.png" alt="Screenshot 4" style="width: 100%;">
-    </div>
-    <!-- Repeat the above structure for each row -->
-</div>
-
-
-<img src="assets/Login_screen.png" alt="Login screen" width="200" height="350">
-<img src="assets/Signup_screen.png" alt="Signup screen" width="200" height="350">
-<img src="assets/Reset_password_screen.png" alt="Reset password screen" width="200" height="350">
-<img src="assets/Home_screen.png" alt="Home screen" width="200" height="350">
+<p align="center">
+  <img src="assets/Login_screen.png" alt="Login screen" width="200" style="margin-right: 10px;">
+  <img src="assets/Signup_screen.png" alt="Signup screen" width="200" style="margin-right: 10px;">
+  <img src="assets/Reset_password_screen.png" alt="Reset password screen" width="200">
+</p>
+<p align="center">
+  <img src="assets/Login_screen.png" alt="Login screen" width="200" style="margin-right: 10px;">
+  <img src="assets/Signup_screen.png" alt="Signup screen" width="200" style="margin-right: 10px;">
+  <img src="assets/Reset_password_screen.png" alt="Reset password screen" width="200">
+</p>
 
 # License
 This project is licensed under the MIT License.
