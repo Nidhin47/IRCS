@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Nidhin47/Nidhin47/assets/53998484/a78a17b2-6ad3-45d7-9303-804c60ceee42" alt="MasterHead" width="350" >
+</p>
+
+
 # Intelligent Resources Consumption System (IRCS)
 
 This is a repository that showcases the Intelligent Resources Consumption System [IRCS] app with all its UI and features. 
