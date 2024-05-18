@@ -15,24 +15,32 @@ IRCS is a comprehensive Flutter application designed for real-time analytics and
 
 # Screenshots
 <p align="center">
-  <img src="assets/Login_screen.png" alt="Login screen" width="200" style="margin-right: 15px;">
-  <img src="assets/Signup_screen.png" alt="Signup screen" width="200" style="margin-right: 15px;">
+  <img src="assets/Login_screen.png" alt="Login screen" width="200" style="margin-right: 25px;">
+  <img src="assets/Signup_screen.png" alt="Signup screen" width="200" style="margin-right: 25px;">
   <img src="assets/Reset_password_screen.png" alt="Reset password screen" width="200">
 </p>
 
 
 <p align="center">
-  <img src="assets/Home_screen.png" alt="Home screen" width="200" style="margin-right: 15px;">
-  <img src="assets/Devices_screen.png" alt="Devices screen" width="200" style="margin-right: 15px;">
-  <img src="assets/Alerts_screen.png" alt="Alerts screen" width="200" style="margin-right: 15px;">
+  <img src="assets/Home_screen.png" alt="Home screen" width="200" style="margin-right: 25px;">
+  <img src="assets/Devices_screen.png" alt="Devices screen" width="200" style="margin-right: 25px;">
+  <img src="assets/Alerts_screen.png" alt="Alerts screen" width="200" style="margin-right: 25px;">
   <img src="assets/User_profile_screen.png" alt="Profile screen" width="200">
 </p>
 
 
 <p align="center">
-  <img src="assets/Electricity_screen.png" alt="Electricity screen" width="200" style="margin-right: 15px;">
-  <img src="assets/Water_screen.png" alt="Water screen" width="200" style="margin-right: 15px;">
-  <img src="assets/Solar_screen.png" alt="Solar screen" width="200">
+  <img src="assets/Electricity_screen.png" alt="Electricity screen" width="200" style="margin-right: 25px;">
+  <img src="https://github.com/Nidhin47/IRCS/assets/53998484/4b08a814-7971-4560-8aaa-8b2a038bde72" alt="Water screen" width="200" style="margin-right: 25px;">
+  <img src="https://github.com/Nidhin47/Nidhin47/assets/53998484/fbf1af9e-8e2d-46d9-82f6-634bf431bdb2" alt="Solar screen" width="200">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Nidhin47/Nidhin47/assets/53998484/cf6f8fef-c3ac-44e5-a3ef-b06377206a14" alt="popupmenu screen" width="200" style="margin-right: 25px;">
+  <img src="https://github.com/Nidhin47/Nidhin47/assets/53998484/6e05e29f-4c39-442c-a739-bbf932bbfca1" alt="filters screen" width="200" style="margin-right: 25px;">
+  <img src="https://github.com/Nidhin47/Nidhin47/assets/53998484/86f7b60a-af2a-4fce-99d7-103e0ee32e07" alt="Threshold screen" width="200" style="margin-right: 25px;">
+  <img src="https://github.com/Nidhin47/Nidhin47/assets/53998484/8ae5f183-8338-404f-a3b0-34271a10e7a5" alt="customrange screen" width="200">
 </p>
 
 # Technologies Used
